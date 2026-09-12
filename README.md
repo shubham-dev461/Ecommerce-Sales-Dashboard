@@ -3,8 +3,6 @@
 # Project Overview
 This project is an Ecommerce Sales Dashboard created using Power BI.
 The dashboard helps analyze sales, profit, quantity, customers, categories, and product performance.
-
-# Project Objective
 The main objective of this project is to analyze ecommerce data and identify useful business insights using interactive Power BI visualizations.
 
 # Tools & Technologies
